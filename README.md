@@ -1,5 +1,8 @@
 # Podcasts With Antonello Zanini
 
+## Diventerò milionario - Guadagno / Risparmio / Investimento / Crescita Personale
+-  [Parliamo con Antonello Zanini - Come funziona Medium e come si può guadagnare](https://www.youtube.com/watch?v=JAT_v-E78_E)
+
 ## Build Your Thing – A Podcast For Content Creators
 - [How to Reach 1 Million Readers on Medium as a Non-Native Speaker With Technical Content (With Antonello Zanini)](https://buildyourthing.co/technical-content-writing-medium-antonello-zanini/)
 
