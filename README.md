@@ -1,5 +1,8 @@
 # Podcasts With Antonello Zanini
 
+## Stolaroid Stories
+-  [One of the Most Motivated Learners I've Ever Met, Antonello Zanini, Shares How He Improved His Writing](https://fabiocerpelloni.com/antonello-zanini/)
+
 ## DevDreams
 -  [Esplorando le frontiere del Technical Writing con Antonello Zanini](https://www.youtube.com/watch?v=kaTeWNWDwJk)
 
