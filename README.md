@@ -1,5 +1,8 @@
 # Podcasts With Antonello Zanini
 
+## The Ink Well
+-  [How Has Writing Helped a Software Engineer Become a Polyglot? - Antonello Zanini - The Ink Well #10](https://www.youtube.com/watch?v=Rn4GbiCIVrE)
+
 ## Stolaroid Stories
 -  [One of the Most Motivated Learners I've Ever Met, Antonello Zanini, Shares How He Improved His Writing](https://fabiocerpelloni.com/antonello-zanini/)
 
