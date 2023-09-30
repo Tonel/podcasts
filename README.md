@@ -1,5 +1,8 @@
 # Podcasts With Antonello Zanini
 
+## My Fluent Podcast
+-  [Learn Languages Through Writing | Antonello Zanini, Polyglot from Italy [Part 1 of 2]](https://www.youtube.com/watch?v=Az1QigHIyog)
+
 ## The Ink Well
 -  [How Has Writing Helped a Software Engineer Become a Polyglot? - Antonello Zanini - The Ink Well #10](https://www.youtube.com/watch?v=Rn4GbiCIVrE)
 
