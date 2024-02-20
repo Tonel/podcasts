@@ -1,5 +1,8 @@
 # Podcasts With Antonello Zanini
 
+## La Locanda del Tech
+-  [Parliamo di Tech writing e divulgazione con Antonello Zanini!](https://www.youtube.com/watch?v=l6q2FsuC1Ts)
+
 ## My Fluent Podcast
 -  [Learn Languages Through Writing | Antonello Zanini, Polyglot from Italy [Part 1 of 2]](https://www.youtube.com/watch?v=Az1QigHIyog)
 
